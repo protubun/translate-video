@@ -1,0 +1,5 @@
+ffmpeg-python
+faster-whisper
+deep-translator
+gTTS
+PyQt6

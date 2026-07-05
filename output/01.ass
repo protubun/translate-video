@@ -1,0 +1,65 @@
+[Script Info]
+Title: Styled Translated Video Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.39,Default,,0,0,0,,When the user comes, he logs me.\NWhen the user comes,\N(اینان با خدا با ارزا اده با احترام خدمت\Nدوستان از اینز با باشته دیگه یه از دور)
+Dialogue: 0,0:00:03.39,0:00:06.66,Default,,0,0,0,,he logs me,\Nand he sends my message and password to\N(دا خدمتون حسیم ما تو یه چند از ست قبلی\Nسکریم تا قسمت لگیم بینیم)
+Dialogue: 0,0:00:06.66,0:00:09.86,Default,,0,0,0,,the embassy.\NWe say that the login success is done\N(وقت که کاربر میاد لگیم می کنه وقت کاربر\Nمیاد لگیم می کنه وچای جوزنم و پسپورد رو)
+Dialogue: 0,0:00:09.86,0:00:10.69,Default,,0,0,0,,and my token.\N(دورا سفارت می کنه بیش میگیم که لگین\Nساکسز انجام شده و توکنش ام حالا ارزا می)
+Dialogue: 0,0:00:10.69,0:00:17.17,Default,,0,0,0,,When the user comes, he logs me.\NWhen the user comes,\N(خدمتون که با می غداره یک دوست دنیم بر می\Nگدم که این اشتباصفت با هم امروز اینو)
+Dialogue: 0,0:00:17.17,0:00:23.41,Default,,0,0,0,,he logs me,\Nand he sends my message and password to\N(اصلاحش با کنیم)
+Dialogue: 0,0:00:23.41,0:00:29.53,Default,,0,0,0,,the embassy.\NWe say that the login success is done\N(این بسمت رو هم من اضافه کردم بر امنیت که\Nنوه حملات نوه اسکویل انجیکشم دوشار نشیم)
+Dialogue: 0,0:00:29.53,0:00:31.12,Default,,0,0,0,,and my token.\N(چما فقط نوه فیلدهای که از نوه فورم بودم\Nرو چک می کردیم و اینجام رو چک می کنیم که)
+Dialogue: 0,0:00:31.12,0:00:43.09,Default,,0,0,0,,I also added this for security so that\Nwe do not fall victim to the attacks of\N(اگر که از این اتفاق بیوفته و چلی این\Nکاره امروز می کنه)
+Dialogue: 0,0:00:43.09,0:00:46.16,Default,,0,0,0,,Neh Esquil Enjiksham\N(فقط برا داده های که استرنگ هستن هواسون\Nباشه)
+Dialogue: 0,0:00:46.16,0:00:53.11,Default,,0,0,0,,We used to check only the grandchild\Nfields that I was from the grandchild of\N(خب تو مره رو بعدی می خوایم بیایم با هم\Nتوکن رو جنریت بکنی که می کنه خودشون)
+Dialogue: 0,0:00:53.11,0:00:57.17,Default,,0,0,0,,the form,\Nand we will check here that if this\N(نویشتم)
+Dialogue: 0,0:00:57.17,0:01:00.24,Default,,0,0,0,,happens,\NCheli will do this today.\N(حالا می تو میگم داسم بچه شکل هستش و\Nاشتجون می تویم رو انجام بیدیم)
+Dialogue: 0,0:01:00.24,0:01:03.04,Default,,0,0,0,,Only for data that is strong, it should\Nbe fine\N(برای این کار من از جی دبالیو تی داره می\Nاستفاده می کنم جیسون بیب توکن خدمتون از)
+Dialogue: 0,0:01:03.04,0:01:03.98,Default,,0,0,0,,Well,\Nnext time,\N(کنم که با استفاده از این دست رو شما این\Nپکج رو نست می کنید)
+Dialogue: 0,0:01:03.98,0:01:06.81,Default,,0,0,0,,we want to come and generate the token\Ntogether,\N(و بعد می رو از روش میکنم و بعد می خدمتون\Nاز کنم که تویه بسمت هیلپن هم اومدم تو تو)
+Dialogue: 0,0:01:06.81,0:01:07.52,Default,,0,0,0,,which will allow me to write it myself.\N(میتود نویشتم)
+Dialogue: 0,0:01:07.52,0:01:11.68,Default,,0,0,0,,Now I'm telling you that I have the\Nshape of a child and I'm going to do it\N(یه که میتود سائن توکن کارشن یه کارشن که\Nاین توکن جی دبالیو تی بار مو جنر ریت)
+Dialogue: 0,0:01:11.68,0:01:20.86,Default,,0,0,0,,For this, I'm using Jayson Babe Token.\NBy using this, you will destroy this\N(میکنه)
+Dialogue: 0,0:01:20.86,0:01:21.84,Default,,0,0,0,,package.\N(به این شکله این میتود رو می به این شکل\Nنویشتم)
+Dialogue: 0,0:01:21.84,0:01:32.13,Default,,0,0,0,,And then I will go through the method\Nand then you will come to write the\N(با استفاده از این پورت کردن این کتاب کنه)
+Dialogue: 0,0:01:32.13,0:01:33.12,Default,,0,0,0,,method.\N(بعد از این که پکج رو نست کریم اینو این\Nبورت میکنیم)
+Dialogue: 0,0:01:33.12,0:01:39.12,Default,,0,0,0,,It's a method of signing a token, it's a\Nway to generate this token JD\N(و خدمتون از کنم که یوزه رایدی رو از\Nکاربر اینی از این قرار دریاف و کنیم)
+Dialogue: 0,0:01:39.12,0:01:42.59,Default,,0,0,0,,I will write this method in this way\N(و بعد می با استفاده از اون سیکریتکی که\Nتوی این وی گوزاشتیم با استفاده از)
+Dialogue: 0,0:01:42.59,0:01:46.42,Default,,0,0,0,,Using this porting of this book\N(الوکوریتم)
+Dialogue: 0,0:01:47.78,0:01:50.34,Default,,0,0,0,,After we install the package, we will\Ninstall it\N(ایچ ایس دیوی سب منجوشش و با حالا متلد\Nزمان ایک دیگه که اینو بدن استلاحش میکنیم)
+Dialogue: 0,0:01:50.34,0:01:56.74,Default,,0,0,0,,And I would like to ask you to get the\Nuse of the ride from this user\N(قراری توکن رو بزازیم)
+Dialogue: 0,0:01:56.74,0:02:01.38,Default,,0,0,0,,And then, using the secret that we put\Nin it, using Elokuritem\N(خلیاته و معفقیت انجام شده ارغی را این\Nسورت و رو یه خطا میدیم)
+Dialogue: 0,0:02:01.38,0:02:09.20,Default,,0,0,0,,HIS DIV is a great one, and now it's\Nanother time to introduce this body\N(بیکه از استمائی خطا میدیم استفاده میکنیم\Nو بعد از هم این جای کوپنیم میکنیم رو)
+Dialogue: 0,0:02:09.20,0:02:10.56,Default,,0,0,0,,We are going to make a token\N(اینجا قرار اش میدیم و ایجا از از بکانیت\Nاینم 3 بود و اینم مثلا ما میدیم 4)
+Dialogue: 0,0:03:13.06,0:03:18.34,Default,,0,0,0,,We give the cell and the success of\NArghi to this sort and to an error\N(اینجا هلوش میکنیم)
+Dialogue: 0,0:03:18.34,0:03:24.19,Default,,0,0,0,,Beke, we will use a mistake and then we\Nwill make a coupon here\N(اینجا میگیم که)
+Dialogue: 0,0:03:24.19,0:03:30.25,Default,,0,0,0,,Here we are going to do it,\Nand here it was 3,\N(به جو داخل ش sais انجاؤزر idea)
+Dialogue: 0,0:03:30.25,0:03:33.15,Default,,0,0,0,,and here,\Nfor example,\N(به اینداپه مهمه)
+Dialogue: 0,0:03:33.15,0:03:35.78,Default,,0,0,0,,we are going to do 4\N(و اگه شماما کنید)
+Dialogue: 0,0:03:35.78,0:03:38.62,Default,,0,0,0,,We're going to hang out here\N(ایک دیگه بعد این تایم اکسپایر بشه مثلا\Nخدمتون و از کنم که هیجده و نو هیجده و ده)
+Dialogue: 0,0:03:38.62,0:03:41.01,Default,,0,0,0,,Here we say that\N(حالان دیگه اتماعن توکن مو باید اکسپایر\Nبشه)
+Dialogue: 0,0:04:46.58,0:04:47.30,Default,,0,0,0,,To the atmosphere inside his sais\Nenjozer idea\N(اینجا خودش به مو پیام میده که این توکن\Nاکسپایر شویدی که امالا مو یه روز دوروز)
+Dialogue: 0,0:04:47.30,0:04:48.02,Default,,0,0,0,,It is important to this day\N(از اشتر سفده نمکنیم)
+Dialogue: 0,0:05:06.38,0:05:07.42,Default,,0,0,0,,And if you do\N(حالا ایلتین که من ایک دیگه گوزاشم خام تو\Nادامه دمو در صباد بکنیم)
+Dialogue: 0,0:05:07.42,0:05:10.06,Default,,0,0,0,,One more thing,\Nafter this time expires,\N(حب تا اینجا ما تو نیسیم توکن رو جنوریت\Nبکنیم و به کاربر بگنیم به از های هر ورلا)
+Dialogue: 0,0:05:10.06,0:05:13.49,Default,,0,0,0,,for example,\Nif you are serving me and I am going to\N(گنگنگنگه ایک توکن جنوریت میشه)
+Dialogue: 0,0:05:13.49,0:05:14.68,Default,,0,0,0,,be eighteen,\Nnine,\N(حالان دیگه اتماعن توکن مو باید اکسپایر\Nبشه)
+Dialogue: 0,0:05:14.68,0:05:15.87,Default,,0,0,0,,eighteen,\Nand ten,\N(حالان دیگه اتماعن توکن مو باید اکسپایر\Nبشه)
+Dialogue: 0,0:05:15.87,0:05:17.98,Default,,0,0,0,,then the hair token must expire.
+Dialogue: 0,0:05:17.98,0:05:20.51,Default,,0,0,0,,Here,\Nhe himself sends a message to Mo that\N(اینجا خودش به مو پیام میده که این توکن\Nاکسپایر شویدی که امالا مو یه روز دوروز)
+Dialogue: 0,0:05:20.51,0:05:24.21,Default,,0,0,0,,this token has expired,\Nso we will not buy it from Ashtar for a
+Dialogue: 0,0:05:24.21,0:05:24.74,Default,,0,0,0,,day or two.\N(از اشتر سفده نمکنیم)
+Dialogue: 0,0:05:24.74,0:05:30.18,Default,,0,0,0,,Now, let's continue the demo in Sabad\N(حالا ایلتین که من ایک دیگه گوزاشم خام تو\Nادامه دمو در صباد بکنیم)
+Dialogue: 0,0:05:30.18,0:05:35.06,Default,,0,0,0,,So far, we are not in you.\NLet's generate the token and tell the\N(حب تا اینجا ما تو نیسیم توکن رو جنوریت\Nبکنیم و به کاربر بگنیم به از های هر ورلا)
+Dialogue: 0,0:05:35.06,0:05:38.80,Default,,0,0,0,,user that a token will be generated in\Nevery way.

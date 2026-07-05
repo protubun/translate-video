@@ -1,0 +1,319 @@
+1
+00:00:00,000 --> 00:00:03,392
+When the user comes, he logs me.
+When the user comes,
+(اینان با خدا با ارزا اده با احترام خدمت
+دوستان از اینز با باشته دیگه یه از دور)
+
+2
+00:00:03,392 --> 00:00:06,657
+he logs me,
+and he sends my message and password to
+(دا خدمتون حسیم ما تو یه چند از ست قبلی
+سکریم تا قسمت لگیم بینیم)
+
+3
+00:00:06,657 --> 00:00:09,858
+the embassy.
+We say that the login success is done
+(وقت که کاربر میاد لگیم می کنه وقت کاربر
+میاد لگیم می کنه وچای جوزنم و پسپورد رو)
+
+4
+00:00:09,858 --> 00:00:10,689
+and my token.
+(دورا سفارت می کنه بیش میگیم که لگین
+ساکسز انجام شده و توکنش ام حالا ارزا می)
+
+5
+00:00:10,689 --> 00:00:17,173
+When the user comes, he logs me.
+When the user comes,
+(خدمتون که با می غداره یک دوست دنیم بر می
+گدم که این اشتباصفت با هم امروز اینو)
+
+6
+00:00:17,173 --> 00:00:23,413
+he logs me,
+and he sends my message and password to
+(اصلاحش با کنیم)
+
+7
+00:00:23,413 --> 00:00:29,530
+the embassy.
+We say that the login success is done
+(این بسمت رو هم من اضافه کردم بر امنیت که
+نوه حملات نوه اسکویل انجیکشم دوشار نشیم)
+
+8
+00:00:29,530 --> 00:00:31,120
+and my token.
+(چما فقط نوه فیلدهای که از نوه فورم بودم
+رو چک می کردیم و اینجام رو چک می کنیم که)
+
+9
+00:00:31,120 --> 00:00:43,091
+I also added this for security so that
+we do not fall victim to the attacks of
+(اگر که از این اتفاق بیوفته و چلی این
+کاره امروز می کنه)
+
+10
+00:00:43,091 --> 00:00:46,159
+Neh Esquil Enjiksham
+(فقط برا داده های که استرنگ هستن هواسون
+باشه)
+
+11
+00:00:46,159 --> 00:00:53,109
+We used to check only the grandchild
+fields that I was from the grandchild of
+(خب تو مره رو بعدی می خوایم بیایم با هم
+توکن رو جنریت بکنی که می کنه خودشون)
+
+12
+00:00:53,109 --> 00:00:57,170
+the form,
+and we will check here that if this
+(نویشتم)
+
+13
+00:00:57,170 --> 00:01:00,240
+happens,
+Cheli will do this today.
+(حالا می تو میگم داسم بچه شکل هستش و
+اشتجون می تویم رو انجام بیدیم)
+
+14
+00:01:00,240 --> 00:01:03,039
+Only for data that is strong, it should
+be fine
+(برای این کار من از جی دبالیو تی داره می
+استفاده می کنم جیسون بیب توکن خدمتون از)
+
+15
+00:01:03,039 --> 00:01:03,981
+Well,
+next time,
+(کنم که با استفاده از این دست رو شما این
+پکج رو نست می کنید)
+
+16
+00:01:03,981 --> 00:01:06,805
+we want to come and generate the token
+together,
+(و بعد می رو از روش میکنم و بعد می خدمتون
+از کنم که تویه بسمت هیلپن هم اومدم تو تو)
+
+17
+00:01:06,805 --> 00:01:07,519
+which will allow me to write it myself.
+(میتود نویشتم)
+
+18
+00:01:07,519 --> 00:01:11,680
+Now I'm telling you that I have the
+shape of a child and I'm going to do it
+(یه که میتود سائن توکن کارشن یه کارشن که
+این توکن جی دبالیو تی بار مو جنر ریت)
+
+19
+00:01:11,680 --> 00:01:20,861
+For this, I'm using Jayson Babe Token.
+By using this, you will destroy this
+(میکنه)
+
+20
+00:01:20,861 --> 00:01:21,840
+package.
+(به این شکله این میتود رو می به این شکل
+نویشتم)
+
+21
+00:01:21,840 --> 00:01:32,132
+And then I will go through the method
+and then you will come to write the
+(با استفاده از این پورت کردن این کتاب کنه)
+
+22
+00:01:32,132 --> 00:01:33,120
+method.
+(بعد از این که پکج رو نست کریم اینو این
+بورت میکنیم)
+
+23
+00:01:33,120 --> 00:01:39,120
+It's a method of signing a token, it's a
+way to generate this token JD
+(و خدمتون از کنم که یوزه رایدی رو از
+کاربر اینی از این قرار دریاف و کنیم)
+
+24
+00:01:39,120 --> 00:01:42,590
+I will write this method in this way
+(و بعد می با استفاده از اون سیکریتکی که
+توی این وی گوزاشتیم با استفاده از)
+
+25
+00:01:42,590 --> 00:01:46,420
+Using this porting of this book
+(الوکوریتم)
+
+26
+00:01:47,780 --> 00:01:50,340
+After we install the package, we will
+install it
+(ایچ ایس دیوی سب منجوشش و با حالا متلد
+زمان ایک دیگه که اینو بدن استلاحش میکنیم)
+
+27
+00:01:50,340 --> 00:01:56,739
+And I would like to ask you to get the
+use of the ride from this user
+(قراری توکن رو بزازیم)
+
+28
+00:01:56,739 --> 00:02:01,379
+And then, using the secret that we put
+in it, using Elokuritem
+(خلیاته و معفقیت انجام شده ارغی را این
+سورت و رو یه خطا میدیم)
+
+29
+00:02:01,379 --> 00:02:09,199
+HIS DIV is a great one, and now it's
+another time to introduce this body
+(بیکه از استمائی خطا میدیم استفاده میکنیم
+و بعد از هم این جای کوپنیم میکنیم رو)
+
+30
+00:02:09,199 --> 00:02:10,560
+We are going to make a token
+(اینجا قرار اش میدیم و ایجا از از بکانیت
+اینم 3 بود و اینم مثلا ما میدیم 4)
+
+31
+00:03:13,060 --> 00:03:18,340
+We give the cell and the success of
+Arghi to this sort and to an error
+(اینجا هلوش میکنیم)
+
+32
+00:03:18,340 --> 00:03:24,189
+Beke, we will use a mistake and then we
+will make a coupon here
+(اینجا میگیم که)
+
+33
+00:03:24,189 --> 00:03:30,247
+Here we are going to do it,
+and here it was 3,
+(به جو داخل ش sais انجاؤزر idea)
+
+34
+00:03:30,247 --> 00:03:33,145
+and here,
+for example,
+(به اینداپه مهمه)
+
+35
+00:03:33,145 --> 00:03:35,780
+we are going to do 4
+(و اگه شماما کنید)
+
+36
+00:03:35,780 --> 00:03:38,620
+We're going to hang out here
+(ایک دیگه بعد این تایم اکسپایر بشه مثلا
+خدمتون و از کنم که هیجده و نو هیجده و ده)
+
+37
+00:03:38,620 --> 00:03:41,009
+Here we say that
+(حالان دیگه اتماعن توکن مو باید اکسپایر
+بشه)
+
+38
+00:04:46,579 --> 00:04:47,300
+To the atmosphere inside his sais
+enjozer idea
+(اینجا خودش به مو پیام میده که این توکن
+اکسپایر شویدی که امالا مو یه روز دوروز)
+
+39
+00:04:47,300 --> 00:04:48,019
+It is important to this day
+(از اشتر سفده نمکنیم)
+
+40
+00:05:06,379 --> 00:05:07,420
+And if you do
+(حالا ایلتین که من ایک دیگه گوزاشم خام تو
+ادامه دمو در صباد بکنیم)
+
+41
+00:05:07,420 --> 00:05:10,060
+One more thing,
+after this time expires,
+(حب تا اینجا ما تو نیسیم توکن رو جنوریت
+بکنیم و به کاربر بگنیم به از های هر ورلا)
+
+42
+00:05:10,060 --> 00:05:13,492
+for example,
+if you are serving me and I am going to
+(گنگنگنگه ایک توکن جنوریت میشه)
+
+43
+00:05:13,492 --> 00:05:14,680
+be eighteen,
+nine,
+(حالان دیگه اتماعن توکن مو باید اکسپایر
+بشه)
+
+44
+00:05:14,680 --> 00:05:15,867
+eighteen,
+and ten,
+(حالان دیگه اتماعن توکن مو باید اکسپایر
+بشه)
+
+45
+00:05:15,867 --> 00:05:17,980
+then the hair token must expire.
+
+46
+00:05:17,980 --> 00:05:20,509
+Here,
+he himself sends a message to Mo that
+(اینجا خودش به مو پیام میده که این توکن
+اکسپایر شویدی که امالا مو یه روز دوروز)
+
+47
+00:05:20,509 --> 00:05:24,214
+this token has expired,
+so we will not buy it from Ashtar for a
+
+48
+00:05:24,214 --> 00:05:24,740
+day or two.
+(از اشتر سفده نمکنیم)
+
+49
+00:05:24,740 --> 00:05:30,180
+Now, let's continue the demo in Sabad
+(حالا ایلتین که من ایک دیگه گوزاشم خام تو
+ادامه دمو در صباد بکنیم)
+
+50
+00:05:30,180 --> 00:05:35,062
+So far, we are not in you.
+Let's generate the token and tell the
+(حب تا اینجا ما تو نیسیم توکن رو جنوریت
+بکنیم و به کاربر بگنیم به از های هر ورلا)
+
+51
+00:05:35,062 --> 00:05:38,800
+user that a token will be generated in
+every way.
+
